@@ -16,7 +16,7 @@ $ https://github.com/SamTharani/Assignment-1-Git.git
 Assignment
 ==========
 Answer the questions in quiz.md. Answer each question in a separate commit. Follow the steps below for each commit.
-1.Make changes to your files.
+1.Make changes to your files.<br>
 2.see if the file change is detected with git status.
 3.see if the correct changes are detected with git diff.
 4.stage the changes with git add <filename>.
